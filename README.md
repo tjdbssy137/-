@@ -32,7 +32,7 @@ e-mail : tjdbssy137@naver.com
 ---
 
 <관심 진로> 
-1. 영화 특수효과 외주업체 취직(<span style="color:blue">덱스터 스튜디오, 블라드 스튜디오)
+1. 영화 특수효과 외주업체 취직(<span style="color:blue">덱스터 스튜디오</span>, <span style="color:blue">블라드 스튜디오</span>)
 2. 애니메이션 제작사 취직
 3. 그래픽 디자이너
 
