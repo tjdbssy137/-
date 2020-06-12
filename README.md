@@ -4,6 +4,7 @@
 <img src=https://user-images.githubusercontent.com/65931605/84516347-a652a880-ad08-11ea-9d86-f28203b2094f.jpg hegiht=200 width=150>
 
 이름 : 박서윤   
+학번 : 20205169   
 생년월일 : 2001/08/06     
 거주지역 : 경기도  
 e-mail : tjdbssy137@naver.com
