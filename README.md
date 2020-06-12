@@ -2,7 +2,7 @@
 ---
 
 ![이력서 사진](https://user-images.githubusercontent.com/65931605/84516347-a652a880-ad08-11ea-9d86-f28203b2094f.jpg) 
-(img src=https://user-images.githubusercontent.com/65931605/84516347-a652a880-ad08-11ea-9d86-f28203b2094f.jpg hegiht=200 width=150)
+<img src=https://user-images.githubusercontent.com/65931605/84516347-a652a880-ad08-11ea-9d86-f28203b2094f.jpg hegiht=200 width=150>
 
 이름 : 박서윤   
 생년월일 : 2001/08/06     
