@@ -1,10 +1,13 @@
 # 한림 대학교 소프트웨어융합대학
 ---
 
-<img src=1234.jpg height=200 width=150>
-이름 : 박서윤   
+![이력서 사진]<img src=1234.jpg height=200 width=150>
+이름 : 박서윤
+
 생년월일 : 2001/08/06  
-거주지역 : 경기도   
+
+거주지역 : 경기도
+
 e-mail : tjdbssy137@naver.com
 
 ---
